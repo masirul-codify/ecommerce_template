@@ -44,3 +44,10 @@ div.absolute {
 .productCard:hover img{
  background-color: rebeccapurple;
 }
+
+.hard{
+  display: none;
+}
+.card:hover .hard{
+  display: block;
+}
